@@ -27,7 +27,7 @@ int main()
 	//end for
 
 	//display the contents of the array
-	displayArray(orders);
+	displayArray(orders); //function call
 	return 0;
 } //end of main function
 
